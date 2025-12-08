@@ -1,0 +1,314 @@
+[
+  {
+    "id": 15001,
+    "job_title": "Junior Data Scientist (m/w/d) im Bereich Mobilitätsanalyse",
+    "url": "https://imaginary-institute.de/jobs/junior-data-scientist",
+    "department": "IT / Data Science",
+    "level": "Junior",
+    "location": "München",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": false,
+    "ignore": false,
+    "removed": false,
+    "manual": true,
+    "Archived": false,
+    "ideal": true,
+    "created_at": "2025-12-08 18:05:00",
+    "updated_at": "2025-12-08 18:05:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "Das Imaginäre Institut für Intelligente Systeme (IIIS) sucht Unterstützung im Bereich Mobilitätsdaten. Du arbeitest an der Entwicklung von Vorhersagemodellen für städtische Verkehrsmuster.",
+    "employer": {
+      "id": "e3df0acb-492d-4da6-8de3-dd26692695f6",
+      "name": "IIIS - Institut für Intelligente Systeme",
+      "alt_name": "Fraunhofer-IIIS (fiktiv)",
+      "logo_url": "logos\\iiis.png"
+    },
+    "jobsource": {
+      "jobsource_id": "31e60d6f-2aef-4f27-8847-f6dd8a12094a",
+      "jobsource": "fraunhofer_crawler"
+    },
+    "CategorizedData": null
+  },
+  {
+    "id": 15002,
+    "job_title": "Filialleiter-Stellvertretung (m/w/d) Lebensmittel",
+    "url": "https://supersave.de/jobs/filialleitung-stellv-bremen",
+    "department": "Einzelhandel",
+    "level": "Professional",
+    "location": "Bremen",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": true,
+    "ignore": false,
+    "removed": false,
+    "manual": false,
+    "Archived": false,
+    "ideal": false,
+    "created_at": "2025-12-08 18:10:00",
+    "updated_at": "2025-12-08 18:10:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "SuperSave GmbH, ein großes Einzelhandelsunternehmen, sucht eine stellvertretende Filialleitung. Verantwortung für Personal, Warenpräsentation und Umsatz.",
+    "employer": {
+      "id": "89f018cd-54b4-4563-85fd-90338859bc30",
+      "name": "SuperSave Einzelhandelsgesellschaft",
+      "alt_name": "SuperSave (fiktiv)",
+      "logo_url": "logos\\supersave.png"
+    },
+    "jobsource": {
+      "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
+      "jobsource": "api_batch1"
+    },
+    "CategorizedData": null
+  },
+  {
+    "id": 15003,
+    "job_title": "Praktikum (m/w/d) Social Media & Content Marketing",
+    "url": "https://startconnect.de/jobs/praktikum-marketing",
+    "department": "Marketing",
+    "level": "Student",
+    "location": "Berlin",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": false,
+    "ignore": false,
+    "removed": false,
+    "manual": true,
+    "Archived": false,
+    "ideal": true,
+    "created_at": "2025-12-08 18:15:00",
+    "updated_at": "2025-12-08 18:15:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "StartConnect UG, ein Technologie-Startup, bietet ein Praktikum im Marketing. Du unterstützt bei der Erstellung von Inhalten für alle digitalen Kanäle und Kampagnen.",
+    "employer": {
+      "id": "288f3012-549c-4b97-8402-a19d430205cb",
+      "name": "StartConnect UG",
+      "alt_name": null,
+      "logo_url": "logos\\startconnect.png"
+    },
+    "jobsource": {
+      "jobsource_id": "f7ef704c-2167-4469-b86c-5a2e068e8a9b",
+      "jobsource": "manual_source1"
+    }
+  },
+  {
+    "id": 15004,
+    "job_title": "Haustechniker (m/w/d) Schwerpunkt Klima- und Lüftungstechnik",
+    "url": "https://citydreams-hotel.de/jobs/haustechniker",
+    "department": "Technik / Facility Management",
+    "level": "Professional",
+    "location": "Düsseldorf",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": true,
+    "ignore": false,
+    "removed": false,
+    "manual": false,
+    "Archived": false,
+    "ideal": false,
+    "created_at": "2025-12-08 18:20:00",
+    "updated_at": "2025-12-08 18:20:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "Das CityDreams Konferenzhotel sucht eine:n qualifizierte:n Haustechniker:in für die Wartung und Instandhaltung aller technischen Anlagen, insbesondere der Lüftungs- und Klimasysteme.",
+    "employer": {
+      "id": "5d333db1-7bb4-410f-8dd6-18e09e3e654b",
+      "name": "CityDreams Konferenzhotel",
+      "alt_name": null,
+      "logo_url": "logos\\citydreams.png"
+    },
+    "jobsource": {
+      "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
+      "jobsource": "api_batch1"
+    }
+  },
+  {
+    "id": 15005,
+    "job_title": "Mitarbeiter:in Vertriebsinnendienst (m/w/d)",
+    "url": "https://pro-tools.de/jobs/vertriebsinnendienst",
+    "department": "Vertrieb",
+    "level": "Professional",
+    "location": "Berlin",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": true,
+    "ignore": false,
+    "removed": false,
+    "manual": false,
+    "Archived": false,
+    "ideal": false,
+    "created_at": "2025-12-08 18:25:00",
+    "updated_at": "2025-12-08 18:25:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "PRO-TOOLS GmbH, ein Online-Händler für Werkzeuge, sucht Verstärkung im Vertriebsinnendienst. Du betreust Bestandskunden und erstellst Angebote.",
+    "employer": {
+      "id": "8cd8d964-7a4d-4cc9-a22b-56dfc80c734e",
+      "name": "PRO-TOOLS GmbH",
+      "alt_name": null,
+      "logo_url": "logos\\protools.png"
+    },
+    "jobsource": {
+      "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
+      "jobsource": "api_batch1"
+    }
+  },
+  {
+    "id": 15006,
+    "job_title": "Assistenz der Geschäftsführung (m/w/d)",
+    "url": "https://theatervierlinden.de/jobs/assistenz-gf",
+    "department": "Verwaltung",
+    "level": "Professional",
+    "location": "Bremen",
+    "schedule": "Teilzeit",
+    "main": true,
+    "sync": false,
+    "ignore": false,
+    "removed": false,
+    "manual": true,
+    "Archived": false,
+    "ideal": true,
+    "created_at": "2025-12-08 18:30:00",
+    "updated_at": "2025-12-08 18:30:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "Das Theater Vier Linden sucht eine zuverlässige Assistenz für die Geschäftsführung zur Koordination von Terminen und administrativen Aufgaben.",
+    "employer": {
+      "id": "9c013a5e-dddc-4ef1-b007-ad7ae7e5f405",
+      "name": "Theater Vier Linden",
+      "alt_name": "Theater Bremen (fiktiv)",
+      "logo_url": "logos\\theatervierlinden.png"
+    },
+    "jobsource": {
+      "jobsource_id": "f7ef704c-2167-4469-b86c-5a2e068e8a9b",
+      "jobsource": "manual_source1"
+    }
+  },
+  {
+    "id": 15007,
+    "job_title": "Pflegehelfer (m/w/d) in Teilzeit",
+    "url": "https://lebenshilfe-aachen.de/jobs/pflegehelfer-teilzeit",
+    "department": "Pflege / Betreuung",
+    "level": "Einsteiger",
+    "location": "Aachen",
+    "schedule": "Teilzeit",
+    "main": true,
+    "sync": true,
+    "ignore": false,
+    "removed": false,
+    "manual": false,
+    "Archived": false,
+    "ideal": false,
+    "created_at": "2025-12-08 18:35:00",
+    "updated_at": "2025-12-08 18:35:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "Die Lebenshilfe Aachen FeD GmbH sucht engagierte Pflegehelfer zur Unterstützung von Menschen mit Behinderung in ihrem Alltag.",
+    "employer": {
+      "id": "398db62b-3ea6-4f9a-9d34-11d528168995",
+      "name": "Lebenshilfe Aachen FeD GmbH",
+      "alt_name": null,
+      "logo_url": "logos\\lebenshilfe.png"
+    },
+    "jobsource": {
+      "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
+      "jobsource": "api_batch1"
+    }
+  },
+  {
+    "id": 15008,
+    "job_title": "Mitarbeiter:in Küchen- & Restaurantservice (m/w/d)",
+    "url": "https://restaurant-ringelnatz.de/jobs/service",
+    "department": "Gastronomie",
+    "level": "Einsteiger",
+    "location": "Hamburg",
+    "schedule": "Teilzeit",
+    "main": true,
+    "sync": false,
+    "ignore": false,
+    "removed": false,
+    "manual": true,
+    "Archived": false,
+    "ideal": false,
+    "created_at": "2025-12-08 18:40:00",
+    "updated_at": "2025-12-08 18:40:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "Das Restaurant Ringelnatz (fiktiv) sucht freundliche Unterstützung für den Service und die Küche. Flexible Arbeitszeiten nach Absprache möglich.",
+    "employer": {
+      "id": "da1b754d-b8c3-47b7-b094-a0fe8abede9c",
+      "name": "Restaurant Ringelnatz",
+      "alt_name": "Ringeltaube (fiktiv)",
+      "logo_url": "logos\\ringelnatz.png"
+    },
+    "jobsource": {
+      "jobsource_id": "f7ef704c-2167-4469-b86c-5a2e068e8a9b",
+      "jobsource": "manual_source1"
+    }
+  },
+  {
+    "id": 15009,
+    "job_title": "IT-Systemadministrator (m/w/d) Windows/Linux",
+    "url": "https://tech-solutions.de/jobs/sysadmin",
+    "department": "IT / Operations",
+    "level": "Professional",
+    "location": "Bremen",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": false,
+    "ignore": false,
+    "removed": false,
+    "manual": true,
+    "Archived": false,
+    "ideal": true,
+    "created_at": "2025-12-08 18:45:00",
+    "updated_at": "2025-12-08 18:45:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "Die Tech Solutions GmbH sucht eine:n erfahrene:n Systemadministrator:in zur Betreuung der internen IT-Infrastruktur (Windows- und Linux-Server).",
+    "employer": {
+      "id": "82bc403b-8e21-41d4-b7f6-c125de542a6a",
+      "name": "Tech Solutions GmbH",
+      "alt_name": "SUHREN (fiktiv)",
+      "logo_url": "logos\\techsolutions.png"
+    },
+    "jobsource": {
+      "jobsource_id": "f7ef704c-2167-4469-b86c-5a2e068e8a9b",
+      "jobsource": "manual_source1"
+    }
+  },
+  {
+    "id": 15010,
+    "job_title": "Sachbearbeiter:in (m/w/d) Energiedatenmanagement",
+    "url": "https://powergrid.de/jobs/sachbearbeiter-daten",
+    "department": "Energiewirtschaft",
+    "level": "Professional",
+    "location": "Berlin",
+    "schedule": "Vollzeit",
+    "main": true,
+    "sync": true,
+    "ignore": false,
+    "removed": false,
+    "manual": false,
+    "Archived": false,
+    "ideal": true,
+    "created_at": "2025-12-08 18:50:00",
+    "updated_at": "2025-12-08 18:50:00",
+    "source_table": "active",
+    "clicks": 0,
+    "description": "PowerGrid Transmission GmbH sucht eine:n Sachbearbeiter:in für die Abwicklung und Koordination des Energiedatenmanagements im Übertragungsnetz.",
+    "employer": {
+      "id": "b0148f89-67ac-4b5b-8b38-8f89d0b5ff53",
+      "name": "PowerGrid Transmission GmbH",
+      "alt_name": "50Hertz Transmission (fiktiv)",
+      "logo_url": "logos\\powergrid.png"
+    },
+    "jobsource": {
+      "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
+      "jobsource": "api_batch1"
+    }
+  }
+]
