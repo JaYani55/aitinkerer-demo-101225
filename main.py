@@ -278,8 +278,8 @@ def main():
         [
             "openai/gpt-4o-mini",
             "mistralai/ministral-3b-2512",
-            "anthropic/claude-3.5-sonnet",
-            "openai/gpt-oss-20b"
+            "openai/gpt-oss-20b",
+            "openai/gpt-5-nano"
         ]
     )
     
