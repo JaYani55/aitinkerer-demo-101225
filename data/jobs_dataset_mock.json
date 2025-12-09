@@ -92,7 +92,8 @@
     "jobsource": {
       "jobsource_id": "f7ef704c-2167-4469-b86c-5a2e068e8a9b",
       "jobsource": "manual_source1"
-    }
+    },
+    "CategorizedData": null
   },
   {
     "id": 15004,

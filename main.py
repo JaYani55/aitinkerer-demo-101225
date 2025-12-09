@@ -160,12 +160,12 @@ def generate_metadata(job: dict, schema: dict, model: str = "openai/gpt-4o-mini"
     logger.info(f"   Temperature: 0.2")
     logger.info(f"   Response format: JSON")
     logger.info("")
-    
+    # OPENROUTER OPENAI COMPLETIONS BLOCK
     start_time = datetime.now()
     chat_response = openrouter_client.chat.completions.create(
         extra_headers={
-            "HTTP-Referer": "https://inklupreneur.de",
-            "X-Title": "MetadataGen Demo",
+            "HTTP-Referer": "https://pluracon.org",
+            "X-Title": "StriaLM_Demo",
         },
         model=model,
         messages=messages,
@@ -173,6 +173,7 @@ def generate_metadata(job: dict, schema: dict, model: str = "openai/gpt-4o-mini"
         response_format={"type": "json_object"}
     )
     elapsed_time = (datetime.now() - start_time).total_seconds()
+    # OPENROUTER OPENAI COMPLETIONS BLOCK
     
     logger.info(f"   ⏱️  Response received in {elapsed_time:.2f}s")
     
@@ -277,7 +278,8 @@ def main():
         [
             "openai/gpt-4o-mini",
             "mistralai/ministral-3b-2512",
-            "anthropic/claude-3.5-sonnet"
+            "anthropic/claude-3.5-sonnet",
+            "openai/gpt-oss-20b"
         ]
     )
     
