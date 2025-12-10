@@ -18,7 +18,7 @@
     "updated_at": "2025-12-08 18:05:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "Das Imaginäre Institut für Intelligente Systeme (IIIS) sucht Unterstützung im Bereich Mobilitätsdaten. Du arbeitest an der Entwicklung von Vorhersagemodellen für städtische Verkehrsmuster.",
+    "description": "**Über uns:**\nDas Imaginäre Institut für Intelligente Systeme (IIIS) ist eine führende Forschungseinrichtung an der Schnittstelle von KI und Urbanistik. Wir forschen an der Stadt der Zukunft.\n\n**Deine Aufgaben:**\n*   Entwicklung und Implementierung von Machine Learning Modellen (fokus auf Time-Series Forecasting) zur Vorhersage von Verkehrsflüssen.\n*   Aufbereitung und Analyse großer raumzeitlicher Datensätze (GPS-Trajektorien, ÖPNV-Daten).\n*   Zusammenarbeit in interdisziplinären Teams aus Informatikern, Stadtplanern und Physikern.\n*   Publikation der Ergebnisse auf internationalen Konferenzen (NeurIPS, ICML, KDD).\n\n**Dein Profil:**\n*   Abgeschlossenes Hochschulstudium (Master/Diplom) in Informatik, Mathematik, Physik oder vergleichbar.\n*   Sehr gute Kenntnisse in Python (Pandas, Scikit-Learn, PyTorch/TensorFlow).\n*   Erfahrung mit Geodaten (PostGIS, QGIS, GeoPandas) ist ein Plus.\n*   Fließendes Deutsch und Englisch in Wort und Schrift.\n\n**Wir bieten:**\n*   Vergütung nach TV-L 13.\n*   Flexible Arbeitszeiten und Möglichkeit zum Home-Office.\n*   Zugang zu High-Performance-Computing Clustern.\n*   Ein kreatives Umfeld im Herzen von München.",
     "employer": {
       "id": "e3df0acb-492d-4da6-8de3-dd26692695f6",
       "name": "IIIS - Institut für Intelligente Systeme",
@@ -50,7 +50,7 @@
     "updated_at": "2025-12-08 18:10:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "SuperSave GmbH, ein großes Einzelhandelsunternehmen, sucht eine stellvertretende Filialleitung. Verantwortung für Personal, Warenpräsentation und Umsatz.",
+    "description": "**SuperSave – Frische für alle!**\nWir sind einer der führenden Lebensmitteleinzelhändler in Norddeutschland. Für unsere Filiale in Bremen suchen wir eine starke Führungspersönlichkeit.\n\n**Ihre Herausforderung:**\nSie unterstützen die Filialleitung bei der Steuerung aller operativen Abläufe.\n*   **Personal:** Führung, Motivation und Einsatzplanung eines Teams von ca. 20 Mitarbeitenden.\n*   **Vertrieb:** Sicherstellung der Verkaufsbereitschaft, Warenpräsentation und Umsetzung von Verkaufsförderungsmaßnahmen.\n*   **Controlling:** Überwachung der betriebswirtschaftlichen Kennzahlen (Umsatz, Abschriften, Personalkosten).\n*   **Qualität:** Einhaltung der Hygienevorschriften (HACCP) und QS-Standards.\n\n**Das bringen Sie mit:**\n*   Abgeschlossene kaufmännische Ausbildung im Einzelhandel (z.B. Kaufmann/-frau im Einzelhandel, Handelsfachwirt).\n*   Erste Führungserfahrung ist wünschenswert.\n*   Hohe Kundenorientierung und \"Hands-on\"-Mentalität.\n*   Bereitschaft zur Schichtarbeit (auch am Wochenende).\n\n**Unser Angebot:**\n*   Attraktives Gehaltspaket mit Urlaubs- und Weihnachtsgeld.\n*   Interne Weiterbildungsmöglichkeiten zur Filialleitung.\n*   Mitarbeiterrabatt.",
     "employer": {
       "id": "89f018cd-54b4-4563-85fd-90338859bc30",
       "name": "SuperSave Einzelhandelsgesellschaft",
@@ -82,7 +82,7 @@
     "updated_at": "2025-12-08 18:15:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "StartConnect UG, ein Technologie-Startup, bietet ein Praktikum im Marketing. Du unterstützt bei der Erstellung von Inhalten für alle digitalen Kanäle und Kampagnen.",
+    "description": "Hey! 👋 Wir sind StartConnect.\nWir bauen die Plattform, die Freelancer und Startups matcht – schneller, besser, fairer. Wir wachsen schnell und brauchen DICH für unser Marketing-Team! 🚀\n\n**Was du machst:**\n*   Du rockst unsere Social Media Kanäle (Instagram, LinkedIn, TikTok). 📱\n*   Content Creation: Du schreibst Blogposts, drehst Reels und erstellst Memes, die viral gehen.\n*   Community Management: Du interagierst mit unserer Community und bist das Sprachrohr der Brand.\n*   Performance Marketing: Du unterstützt beim Aufsetzen von Ad-Kampagnen.\n\n**Wer du bist:**\n*   Student:in im Bereich Marketing, Medien, Kommunikation oder einfach ein Naturtalent.\n*   Du bist \"Digital Native\" und kennst die neuesten Trends.\n*   Du hast ein Auge für Design (Canva, Photoshop) und schreibst gerne Texte.\n*   Eigeninitiative und Kreativität sind dein zweiter Vorname.\n\n**Why join us?**\n*   Steile Lernkurve und echte Verantwortung ab Tag 1.\n*   Remote-First Culture (aber wir haben auch ein cooles Office in Berlin-Mitte mit Mate & Obst). 🍎\n*   Legendäre Team-Events.\n*   Die Chance, ein wachsendes Startup aktiv mitzugestalten.",
     "employer": {
       "id": "288f3012-549c-4b97-8402-a19d430205cb",
       "name": "StartConnect UG",
@@ -114,7 +114,7 @@
     "updated_at": "2025-12-08 18:20:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "Das CityDreams Konferenzhotel sucht eine:n qualifizierte:n Haustechniker:in für die Wartung und Instandhaltung aller technischen Anlagen, insbesondere der Lüftungs- und Klimasysteme.",
+    "description": "Das **CityDreams Konferenzhotel** (4 Sterne Superior) in Düsseldorf steht für exzellenten Service und moderne Tagungsmöglichkeiten. Zur Verstärkung unseres Technik-Teams suchen wir zum nächstmöglichen Zeitpunkt einen\n\n**Haustechniker (m/w/d) Schwerpunkt Klima- und Lüftungstechnik**\n\n**Ihre Aufgaben:**\n*   Betreuung, Wartung und Instandsetzung der gebäudetechnischen Anlagen (Schwerpunkt RLT-Anlagen, Kältetechnik).\n*   Überwachung der Gebäudeleittechnik (GLT).\n*   Durchführung von Kleinreparaturen in den Gästezimmern und öffentlichen Bereichen.\n*   Begleitung von externen Wartungsfirmen und Sachverständigenprüfungen.\n*   Teilnahme am Rufbereitschaftsdienst.\n\n**Ihr Profil:**\n*   Abgeschlossene technische Ausbildung (z.B. Anlagenmechaniker SHK, Mechatroniker für Kältetechnik oder Elektriker).\n*   Erfahrung in der Hotellerie oder im Facility Management von Vorteil.\n*   Gewerkeübergreifendes Verständnis.\n*   Gepflegtes Erscheinungsbild und gute Umgangsformen.\n*   Gute Deutschkenntnisse.\n\n**Wir bieten:**\n*   Einen sicheren Arbeitsplatz in einem renommierten Haus.\n*   Übertarifliche Bezahlung.\n*   Verpflegung in der Mitarbeiterkantine.\n*   Jobticket.",
     "employer": {
       "id": "5d333db1-7bb4-410f-8dd6-18e09e3e654b",
       "name": "CityDreams Konferenzhotel",
@@ -124,7 +124,8 @@
     "jobsource": {
       "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
       "jobsource": "api_batch1"
-    }
+    },
+    "CategorizedData": null
   },
   {
     "id": 15005,
@@ -145,7 +146,7 @@
     "updated_at": "2025-12-08 18:25:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "PRO-TOOLS GmbH, ein Online-Händler für Werkzeuge, sucht Verstärkung im Vertriebsinnendienst. Du betreust Bestandskunden und erstellst Angebote.",
+    "description": "**PRO-TOOLS GmbH – Werkzeuge für Profis.**\nSeit über 20 Jahren versorgen wir Handwerk und Industrie mit hochwertigem Werkzeug. Wir wachsen weiter und suchen Sie!\n\n**Ihre Aufgaben im Vertriebsinnendienst:**\n*   Aktiver Telefonvertrieb und Betreuung unseres bestehenden Kundenstamms (B2B).\n*   Technische Beratung zu unserem Produktsortiment (Elektrowerkzeuge, Handwerkzeuge, Arbeitsschutz).\n*   Erstellung und Nachverfolgung von Angeboten bis zum Vertragsabschluss.\n*   Stammdatenpflege im CRM-System.\n*   Reklamationsbearbeitung.\n\n**Ihr Profil:**\n*   Kaufmännische oder technische Ausbildung.\n*   Vertriebsblut: Sie haben Spaß am Verkaufen und Telefonieren.\n*   Technisches Verständnis für Werkzeuge ist zwingend erforderlich.\n*   Sicherer Umgang mit MS Office und ERP-Systemen.\n*   Kommunikationsstärke und Verhandlungsgeschick.\n\n**Wir bieten:**\n*   Festgehalt plus attraktive Provisionsregelung.\n*   30 Tage Urlaub.\n*   Intensive Einarbeitung und Produktschulungen.\n*   Kostenlose Parkplätze.",
     "employer": {
       "id": "8cd8d964-7a4d-4cc9-a22b-56dfc80c734e",
       "name": "PRO-TOOLS GmbH",
@@ -155,7 +156,8 @@
     "jobsource": {
       "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
       "jobsource": "api_batch1"
-    }
+    },
+    "CategorizedData": null
   },
   {
     "id": 15006,
@@ -176,7 +178,7 @@
     "updated_at": "2025-12-08 18:30:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "Das Theater Vier Linden sucht eine zuverlässige Assistenz für die Geschäftsführung zur Koordination von Terminen und administrativen Aufgaben.",
+    "description": "**Theater Vier Linden**\nDas Theater Vier Linden ist eine feste Größe in der Bremer Kulturlandschaft. Wir inszenieren klassisches und modernes Schauspiel.\n\nWir suchen ab sofort eine **Assistenz der Geschäftsführung (m/w/d)** in Teilzeit (20-25 Std./Woche).\n\n**Aufgabenbereich:**\n*   Unterstützung der Geschäftsführung im operativen Tagesgeschäft.\n*   Terminkoordination und Reiseplanung.\n*   Vorbereitung von Sitzungen und Protokollführung.\n*   Kommunikation mit Künstlern, Agenturen und Förderern.\n*   Allgemeine Büroorganisation und vorbereitende Buchhaltung.\n*   Betreuung von Sonderprojekten und Premierenfeiern.\n\n**Anforderungen:**\n*   Erfahrung im Assistenzbereich oder Kulturmanagement.\n*   Hohe Affinität zu Theater und Kultur.\n*   Organisationstalent, Diskretion und Zuverlässigkeit.\n*   Sehr gute Deutschkenntnisse, Englischkenntnisse von Vorteil.\n*   Bereitschaft zu gelegentlichen Einsätzen am Abend oder Wochenende (bei Veranstaltungen).\n\n**Wir bieten:**\n*   Einen Arbeitsplatz mit besonderem Flair.\n*   Einblick in den Theaterbetrieb.\n*   Ein kleines, engagiertes Team.\n*   Freikarten für Vorstellungen.",
     "employer": {
       "id": "9c013a5e-dddc-4ef1-b007-ad7ae7e5f405",
       "name": "Theater Vier Linden",
@@ -186,7 +188,8 @@
     "jobsource": {
       "jobsource_id": "f7ef704c-2167-4469-b86c-5a2e068e8a9b",
       "jobsource": "manual_source1"
-    }
+    },
+    "CategorizedData": null
   },
   {
     "id": 15007,
@@ -207,7 +210,7 @@
     "updated_at": "2025-12-08 18:35:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "Die Lebenshilfe Aachen FeD GmbH sucht engagierte Pflegehelfer zur Unterstützung von Menschen mit Behinderung in ihrem Alltag.",
+    "description": "Die **Lebenshilfe Aachen FeD GmbH** unterstützt Menschen mit Behinderung und ihre Familien. Für unseren Familienentlastenden Dienst (FeD) suchen wir:\n\n**Pflegehelfer / Betreuungskräfte (m/w/d)**\n\n**Was Sie tun:**\n*   Individuelle Betreuung und Begleitung von Kindern, Jugendlichen und Erwachsenen mit Behinderung im häuslichen Umfeld oder bei Freizeitaktivitäten.\n*   Unterstützung bei der Grundpflege (je nach Bedarf).\n*   Förderung der Teilhabe am gesellschaftlichen Leben (Kino, Ausflüge, Spaziergänge).\n*   Dokumentation der erbrachten Leistungen.\n\n**Was Sie mitbringen:**\n*   Erfahrung in der Pflege oder Betreuung ist wünschenswert, aber keine Bedingung – Quereinsteiger willkommen!\n*   Einfühlungsvermögen, Geduld und Verantwortungsbewusstsein.\n*   Führerschein Klasse B ist von Vorteil.\n*   Erweitertes Führungszeugnis (wird bei Einstellung beantragt).\n\n**Was wir bieten:**\n*   Eine sinnstiftende Tätigkeit.\n*   Flexible Arbeitszeiten (ideal für Studierende oder als Nebenjob).\n*   Faire Vergütung und Zuschläge für Wochenend- und Feiertagsarbeit.\n*   Regelmäßige Fortbildungen und Teamsitzungen.",
     "employer": {
       "id": "398db62b-3ea6-4f9a-9d34-11d528168995",
       "name": "Lebenshilfe Aachen FeD GmbH",
@@ -217,7 +220,8 @@
     "jobsource": {
       "jobsource_id": "a5869187-d48e-4ae9-990e-3f8e8c10e757",
       "jobsource": "api_batch1"
-    }
+    },
+    "CategorizedData": null
   },
   {
     "id": 15008,
@@ -238,7 +242,7 @@
     "updated_at": "2025-12-08 18:40:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "Das Restaurant Ringelnatz (fiktiv) sucht freundliche Unterstützung für den Service und die Küche. Flexible Arbeitszeiten nach Absprache möglich.",
+    "description": "**Restaurant Ringelnatz** – Genuss im Hafenviertel.\nWir sind ein modernes Restaurant mit gehobener deutscher Küche und entspannter Atmosphäre.\n\nZur Verstärkung unseres Teams suchen wir:\n**Servicekraft / Kellner (m/w/d)**\n\n**Deine Aufgaben:**\n*   Herzlicher Empfang und Platzierung unserer Gäste.\n*   Beratung bei der Auswahl von Speisen und Weinen.\n*   Aufnahme von Bestellungen und Servieren von Speisen und Getränken.\n*   Erstellung der Rechnung und Kassieren.\n*   Vorbereitung des Gastraums (Mise en place).\n\n**Das bist Du:**\n*   Du hast bereits Erfahrung im Service oder bist ein lernwilliges Naturtalent.\n*   Du behältst auch im größten Stress ein Lächeln.\n*   Du bist teamfähig, pünktlich und zuverlässig.\n*   Gute Deutschkenntnisse.\n\n**Das gibt's bei uns:**\n*   Ein super Team, das zusammenhält.\n*   Faire Bezahlung + Trinkgeld (wird fair geteilt).\n*   Leckeres Personalessen.\n*   Dienstplanwünsche werden berücksichtigt.",
     "employer": {
       "id": "da1b754d-b8c3-47b7-b094-a0fe8abede9c",
       "name": "Restaurant Ringelnatz",
@@ -269,7 +273,7 @@
     "updated_at": "2025-12-08 18:45:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "Die Tech Solutions GmbH sucht eine:n erfahrene:n Systemadministrator:in zur Betreuung der internen IT-Infrastruktur (Windows- und Linux-Server).",
+    "description": "**Tech Solutions GmbH** – Your Partner for Digital Infrastructure.\n\nWir suchen einen **IT-Systemadministrator (m/w/d)** für unseren Standort Bremen.\n\n**Tech Stack & Aufgaben:**\n*   **Administration:** Du verwaltest unsere heterogene Serverlandschaft (Windows Server 2019/2022, Linux Debian/Ubuntu).\n*   **Virtualisierung:** Betreuung der VMware vSphere / ESXi Cluster.\n*   **Cloud:** Verwaltung von Azure AD und Microsoft 365 Umgebungen.\n*   **Network:** Konfiguration von Firewalls (Sophos), VLANs, VPN und Routing.\n*   **Support:** 2nd und 3rd Level Support für interne Kollegen.\n*   **Monitoring:** Überwachung der Systemverfügbarkeit (Checkmk / Nagios).\n\n**Skills:**\n*   Ausbildung zum Fachinformatiker Systemintegration oder vergleichbares Studium.\n*   Mindestens 3 Jahre Berufserfahrung in der Systemadministration.\n*   Fundierte Kenntnisse in Active Directory, GPO, DNS, DHCP.\n*   Erfahrung mit Scripting (PowerShell, Bash) zur Automatisierung.\n*   Analytische Denkweise und Problemlösungskompetenz.\n\n**Benefits:**\n*   Unbefristeter Arbeitsvertrag.\n*   Moderne Hardware (Laptop, Smartphone).\n*   Weiterbildungsbudget für Zertifizierungen.\n*   Betriebliche Altersvorsorge.",
     "employer": {
       "id": "82bc403b-8e21-41d4-b7f6-c125de542a6a",
       "name": "Tech Solutions GmbH",
@@ -300,7 +304,7 @@
     "updated_at": "2025-12-08 18:50:00",
     "source_table": "active",
     "clicks": 0,
-    "description": "PowerGrid Transmission GmbH sucht eine:n Sachbearbeiter:in für die Abwicklung und Koordination des Energiedatenmanagements im Übertragungsnetz.",
+    "description": "**PowerGrid Transmission GmbH**\nWir sorgen dafür, dass der Strom fließt. Als Übertragungsnetzbetreiber sind wir das Rückgrat der Energiewende.\n\nFür unsere Abteilung Energiedatenmanagement suchen wir eine/n:\n**Sachbearbeiter:in (m/w/d) Energiedatenmanagement**\n\n**Ihre Aufgaben:**\n*   Plausibilisierung und Ersatzwertbildung von Energiedaten (Strom).\n*   Marktkommunikation nach GPKE/GeLi Gas und MaBiS-Prozessen.\n*   Klärung von Differenzen mit Marktpartnern (Clearing).\n*   Pflege von Stammdaten im energiewirtschaftlichen System (SAP IS-U / EDM).\n*   Erstellung von Reports für die Bundesnetzagentur.\n*   Mitarbeit bei der Weiterentwicklung der Prozesslandschaft.\n\n**Ihr Profil:**\n*   Kaufmännische Ausbildung (z.B. Industriekaufmann/-frau) oder Studium mit Schwerpunkt Energiewirtschaft.\n*   Erste Berufserfahrung in der Energiewirtschaft ist von Vorteil.\n*   Sicherer Umgang mit MS Office, insbesondere Excel (Pivot, S-Verweis).\n*   Kenntnisse in SAP IS-U sind wünschenswert.\n*   Strukturierte und gewissenhafte Arbeitsweise.\n\n**Wir bieten:**\n*   Vergütung nach Tarifvertrag der Energieversorgung.\n*   Gleitzeit und Home-Office-Möglichkeiten.\n*   Umfangreiches Gesundheitsmanagement.\n*   Betriebskantine.",
     "employer": {
       "id": "b0148f89-67ac-4b5b-8b38-8f89d0b5ff53",
       "name": "PowerGrid Transmission GmbH",
