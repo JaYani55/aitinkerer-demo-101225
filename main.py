@@ -107,7 +107,7 @@ def generate_metadata(job: dict, schema: dict, model: str = "openai/gpt-4o-mini"
             logger.info(f"   • {field_name}: {field_type}")
     logger.info("")
     
-    # Build system prompt
+    # SYSTEM PROMPT BLOCK
     system_prompt = (
         "Du bist ein hilfreicher Data Entry Assistent. Deine Aufgabe ist es, "
         "Stellenanzeigen zu kategorisieren. Antworte nur in validen JSON Objekten. "
@@ -116,7 +116,7 @@ def generate_metadata(job: dict, schema: dict, model: str = "openai/gpt-4o-mini"
         "Tätigkeit mit mindestens 3 Stichpunkten. Adresse ist der Ort der Tätigkeit, "
         "antworte so genau wie möglich. JSON Schema: " + json.dumps(schema)
     )
-    
+    # SYSTEM PROMPT BLOCK
     logger.info("-"*70)
     logger.info("💬 SYSTEM PROMPT:")
     logger.info("-"*70)
